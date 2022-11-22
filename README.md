@@ -1,4 +1,4 @@
-# Projeto Computer Vision Full - BMSrecognition
+# Projeto Computer Vision Full - BMSrecognition (Building Material Store recognition -> Reconhecimento para Loja de Material de Construção)
 
 Projeto desenvolvido para a Disciplina de Computação Gráfica | Atitus 2022
 
