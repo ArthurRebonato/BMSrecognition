@@ -1,0 +1,801 @@
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(1).jpg 1 341 214 583 351
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(10).jpg 1 350 135 673 405
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(100).jpg 1 50 15 815 610
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(101).jpg 1 91 62 931 625
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(102).jpg 1 385 148 242 226
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(103).jpg 1 163 105 707 416
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(104).jpg 1 170 189 490 493
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(105).jpg 1 132 135 767 351
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(106).jpg 1 251 19 502 480
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(107).jpg 4 688 206 135 153 523 185 173 167 384 225 141 119 288 257 99 89
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(108).jpg 1 1 39 478 445
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(109).jpg 1 291 55 440 429
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(11).jpg 1 192 120 757 381
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(110).jpg 1 60 134 908 407
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(111).jpg 1 498 49 432 369
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(112).jpg 1 83 161 911 524
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(113).jpg 1 65 4 956 501
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(114).jpg 1 226 151 648 380
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(115).jpg 1 290 236 559 262
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(116).jpg 3 618 127 373 480 522 135 216 488 2 3 594 664
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(117).jpg 1 60 312 886 376
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(118).jpg 1 219 226 628 311
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(119).jpg 1 156 143 704 439
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(12).jpg 1 201 118 746 383
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(120).jpg 1 75 149 898 501
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(121).jpg 1 116 1 849 499
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(122).jpg 1 298 115 396 359
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(123).jpg 3 331 415 285 272 619 463 295 221 103 482 250 203
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(124).jpg 4 610 204 375 480 438 390 188 205 312 451 123 118 24 304 281 347
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(125).jpg 1 195 17 382 368
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(126).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(127).jpg 1 224 231 765 359
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(128).jpg 1 206 147 619 536
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(129).jpg 1 23 14 975 561
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(13).jpg 2 277 363 448 253 685 354 295 216
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(130).jpg 1 75 176 853 432
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(131).jpg 1 328 81 664 479
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(132).jpg 1 127 62 474 377
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(133).jpg 1 399 140 286 248
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(134).jpg 1 91 46 870 604
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(135).jpg 1 88 140 838 492
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(136).jpg 1 335 141 578 417
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(137).jpg 1 26 38 976 369
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(138).jpg 1 34 42 985 425
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(139).jpg 1 40 38 981 428
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(14).jpg 1 238 152 564 246
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(140).jpg 1 236 168 547 358
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(141).jpg 1 92 8 686 677
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(142).jpg 1 345 105 381 331
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(143).jpg 1 311 42 652 379
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(144).jpg 1 54 3 798 657
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(145).jpg 6 800 233 152 136 651 230 158 143 509 182 148 193 353 174 156 198 209 211 161 160 62 249 158 119
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(146).jpg 1 34 91 950 536
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(147).jpg 1 6 3 983 575
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(148).jpg 1 41 102 904 567
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(149).jpg 1 122 48 838 357
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(15).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(150).jpg 1 86 33 844 505
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(151).jpg 1 36 63 948 623
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(152).jpg 1 216 184 501 425
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(153).jpg 1 29 30 872 441
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(154).jpg 1 122 61 703 620
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(155).jpg 3 48 71 713 501 863 343 147 152 732 333 134 142
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(156).jpg 2 177 50 655 634 766 271 256 268
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(157).jpg 1 355 75 313 377
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(158).jpg 1 245 140 366 295
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(159).jpg 1 46 109 934 579
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(16).jpg 1 59 48 620 291
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(160).jpg 1 6 7 1009 566
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(161).jpg 1 251 105 549 361
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(162).jpg 1 273 31 688 433
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(163).jpg 1 243 102 499 296
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(164).jpg 1 263 5 459 314
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(165).jpg 1 121 61 821 559
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(166).jpg 6 760 216 190 141 647 233 147 129 524 197 127 164 385 200 127 160 249 216 140 141 90 223 166 136
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(167).jpg 1 51 46 891 616
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(168).jpg 1 85 29 911 650
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(169).jpg 1 229 414 470 274
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(17).jpg 1 343 290 481 363
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(170).jpg 1 169 143 696 482
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(171).jpg 1 47 155 818 450
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(172).jpg 1 46 176 754 446
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(173).jpg 1 2 10 933 676
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(174).jpg 1 205 157 633 389
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(175).jpg 1 316 240 698 448
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(176).jpg 1 80 325 875 220
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(177).jpg 1 148 8 742 519
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(178).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(179).jpg 1 57 13 903 454
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(18).jpg 1 36 383 444 264
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(180).jpg 1 170 98 667 424
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(181).jpg 2 22 12 916 649 876 220 147 210
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(182).jpg 1 143 49 785 484
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(183).jpg 2 82 262 135 55 316 43 571 440
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(184).jpg 1 139 15 784 671
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(185).jpg 1 265 380 502 289
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(186).jpg 1 361 82 385 389
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(187).jpg 1 117 67 767 495
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(188).jpg 1 111 230 753 394
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(189).jpg 1 326 96 647 303
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(19).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(190).jpg 1 190 28 725 645
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(191).jpg 1 7 159 1011 528
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(192).jpg 1 118 218 745 408
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(193).jpg 1 143 52 662 437
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(194).jpg 1 53 72 936 445
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(195).jpg 1 156 127 772 439
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(196).jpg 1 119 224 723 391
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(197).jpg 1 102 67 863 613
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(198).jpg 1 3 5 1010 640
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(199).jpg 1 361 0 635 364
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(2).jpg 1 387 40 399 388
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(20).jpg 1 532 44 490 442
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(200).jpg 1 241 119 504 485
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(201).jpg 1 33 21 983 621
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(202).jpg 1 387 11 475 549
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(203).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(204).jpg 1 167 185 407 354
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(205).jpg 1 202 253 573 327
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(206).jpg 1 233 178 561 482
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(207).jpg 1 142 445 785 240
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(208).jpg 1 148 16 790 509
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(209).jpg 1 98 64 893 410
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(21).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(210).jpg 4 503 58 393 518 264 151 330 328 100 218 271 232 16 237 183 144
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(211).jpg 2 149 163 716 522 698 172 325 513
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(212).jpg 2 392 105 431 420 800 293 141 136
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(213).jpg 1 253 6 766 588
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(214).jpg 1 193 17 518 436
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(215).jpg 1 238 57 382 432
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(216).jpg 1 257 328 443 269
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(217).jpg 1 48 251 567 390
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(218).jpg 1 482 370 539 318
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(219).jpg 1 304 0 490 687
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(22).jpg 1 87 270 898 332
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(220).jpg 1 482 125 134 165
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(221).jpg 1 471 279 241 311
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(222).jpg 2 523 434 365 252 299 443 289 238
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(223).jpg 1 453 153 316 233
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(224).jpg 2 318 130 287 216 115 230 42 47
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(225).jpg 1 411 263 475 293
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(226).jpg 1 345 383 343 302
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(227).jpg 1 322 361 240 252
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(228).jpg 1 384 197 197 197
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(229).jpg 2 300 89 406 249 57 203 117 99
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(23).jpg 2 14 273 501 365 539 426 37 49
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(230).jpg 1 200 227 586 342
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(231).jpg 1 204 204 380 238
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(232).jpg 1 216 152 369 392
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(233).jpg 1 0 3 1022 596
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(234).jpg 1 174 150 486 525
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(235).jpg 3 310 154 218 276 261 205 53 154 827 124 196 427
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(236).jpg 1 260 244 547 441
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(237).jpg 1 108 240 707 447
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(238).jpg 1 373 317 438 227
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(239).jpg 1 327 113 283 276
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(24).jpg 1 88 106 875 573
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(240).jpg 1 1 166 460 300
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(241).jpg 2 192 147 394 227 555 187 212 174
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(242).jpg 1 240 107 779 578
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(243).jpg 1 93 216 318 322
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(244).jpg 1 258 17 421 320
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(245).jpg 1 74 20 689 665
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(246).jpg 1 465 185 382 393
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(247).jpg 1 250 6 736 570
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(248).jpg 1 301 132 400 363
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(249).jpg 1 239 157 267 203
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(25).jpg 1 180 11 675 653
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(250).jpg 1 378 2 641 431
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(251).jpg 1 157 240 524 395
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(252).jpg 1 56 2 920 684
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(253).jpg 1 6 161 810 527
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(254).jpg 1 12 161 836 526
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(255).jpg 1 392 409 333 277
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(256).jpg 1 255 417 294 270
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(257).jpg 3 393 410 362 136 356 396 118 72 3 340 126 156
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(258).jpg 1 152 41 408 287
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(259).jpg 1 134 3 629 444
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(26).jpg 2 73 57 616 487 536 95 354 408
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(260).jpg 1 223 4 486 406
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(261).jpg 1 1 29 719 473
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(262).jpg 1 235 106 279 377
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(263).jpg 2 202 220 411 178 1 299 196 97
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(264).jpg 1 216 23 459 614
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(265).jpg 1 55 1 796 685
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(266).jpg 1 315 257 349 249
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(267).jpg 1 477 305 492 357
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(268).jpg 1 301 148 161 167
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(269).jpg 1 201 335 596 350
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(27).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(270).jpg 1 95 56 476 386
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(271).jpg 3 120 195 340 166 0 173 115 141 578 196 188 150
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(272).jpg 1 64 7 712 618
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(273).jpg 1 248 86 515 561
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(274).jpg 1 467 471 279 214
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(275).jpg 1 94 270 628 418
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(276).jpg 1 170 179 459 391
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(277).jpg 1 380 116 411 380
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(278).jpg 1 387 335 318 351
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(279).jpg 1 32 33 732 653
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(28).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(280).jpg 1 105 165 638 521
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(281).jpg 1 617 429 182 172
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(282).jpg 1 98 337 436 344
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(283).jpg 1 605 293 255 311
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(284).jpg 1 62 137 513 466
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(285).jpg 2 236 55 405 404 2 229 106 119
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(286).jpg 1 108 2 516 533
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(287).jpg 1 189 187 557 406
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(288).jpg 1 50 12 716 673
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(289).jpg 1 364 162 406 387
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(29).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(290).jpg 1 257 93 201 206
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(291).jpg 2 254 277 618 394 876 370 145 211
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(292).jpg 1 153 155 718 527
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(293).jpg 1 115 130 492 429
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(294).jpg 1 306 33 395 450
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(295).jpg 2 257 122 551 381 762 216 242 104
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(296).jpg 1 305 264 343 312
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(297).jpg 1 308 456 559 230
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(298).jpg 4 344 298 173 125 573 270 191 178 169 312 150 66 0 283 89 111
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(299).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(3).jpg 1 301 259 359 229
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(30).jpg 1 2 91 890 548
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(300).jpg 2 85 224 664 461 773 406 247 279
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(301).jpg 1 145 122 232 281
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(302).jpg 1 192 237 414 415
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(303).jpg 1 2 63 752 426
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(304).jpg 1 412 286 477 364
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(305).jpg 3 575 272 103 122 341 245 243 197 1 14 375 458
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(306).jpg 1 222 3 800 655
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(307).jpg 1 1 299 766 259
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(308).jpg 1 162 89 474 376
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(309).jpg 1 181 142 339 243
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(31).jpg 1 176 7 371 315
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(310).jpg 1 50 51 431 327
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(311).jpg 1 386 136 209 146
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(312).jpg 1 1 134 690 553
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(313).jpg 1 50 280 826 406
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(314).jpg 1 116 69 432 411
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(315).jpg 1 169 283 412 348
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(316).jpg 1 123 49 899 638
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(317).jpg 2 249 145 585 542 139 453 59 56
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(318).jpg 1 303 272 474 402
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(319).jpg 3 327 278 168 145 565 280 193 148 29 307 81 84
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(32).jpg 3 7 54 731 547 470 75 552 474 840 89 180 324
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(320).jpg 1 3 50 852 637
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(321).jpg 1 227 157 311 285
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(322).jpg 1 152 18 419 462
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(323).jpg 1 410 354 198 165
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(324).jpg 1 53 168 477 333
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(325).jpg 1 477 265 492 299
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(326).jpg 1 258 94 459 459
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(327).jpg 1 272 118 454 497
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(328).jpg 1 322 82 591 528
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(329).jpg 1 147 21 799 516
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(33).jpg 1 68 82 881 511
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(330).jpg 1 77 91 424 473
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(331).jpg 1 93 52 600 547
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(332).jpg 1 81 96 868 481
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(333).jpg 1 46 145 749 427
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(334).jpg 3 124 28 830 659 0 73 192 486 898 152 124 432
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(335).jpg 4 505 212 434 303 320 231 237 261 159 234 167 241 74 264 95 174
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(336).jpg 1 235 254 608 412
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(337).jpg 2 527 302 151 182 698 9 324 590
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(338).jpg 1 55 68 921 615
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(339).jpg 2 313 82 616 546 932 329 90 132
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(34).jpg 1 33 60 965 583
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(340).jpg 3 526 322 193 176 716 358 64 93 2 115 491 531
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(341).jpg 1 173 7 652 676
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(342).jpg 1 186 85 715 603
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(343).jpg 1 104 231 830 455
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(344).jpg 1 130 61 819 627
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(345).jpg 1 65 127 906 559
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(346).jpg 1 47 3 941 685
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(347).jpg 1 71 83 486 402
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(348).jpg 1 75 0 882 533
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(349).jpg 1 86 79 838 604
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(35).jpg 1 205 192 532 391
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(350).jpg 1 95 232 862 453
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(351).jpg 1 89 8 793 590
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(352).jpg 1 116 93 651 571
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(353).jpg 1 54 23 872 605
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(354).jpg 1 40 72 944 615
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(355).jpg 1 213 13 525 544
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(356).jpg 1 13 308 1006 378
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(357).jpg 1 55 147 845 537
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(358).jpg 1 59 60 935 627
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(359).jpg 1 58 2 883 680
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(36).jpg 1 316 108 604 453
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(360).jpg 1 156 51 732 630
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(361).jpg 2 382 146 496 438 198 339 97 118
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(362).jpg 1 48 198 955 382
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(363).jpg 1 136 48 728 520
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(364).jpg 1 136 137 781 484
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(365).jpg 1 32 11 801 674
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(366).jpg 1 43 1 853 682
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(367).jpg 2 226 42 536 640 0 159 196 224
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(368).jpg 1 80 86 872 510
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(369).jpg 1 35 30 828 634
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(37).jpg 1 14 3 981 659
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(370).jpg 1 53 40 913 634
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(371).jpg 1 101 39 728 470
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(372).jpg 1 53 6 921 679
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(373).jpg 1 155 54 519 623
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(374).jpg 1 60 264 667 423
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(375).jpg 1 214 292 642 396
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(376).jpg 3 111 140 647 461 912 155 111 280 649 179 152 225
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(377).jpg 1 576 200 277 235
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(378).jpg 2 158 226 812 459 810 439 213 227
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(379).jpg 1 214 74 735 497
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(38).jpg 1 92 189 910 496
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(380).jpg 1 122 5 603 481
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(381).jpg 1 159 158 697 486
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(382).jpg 1 246 206 589 425
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(383).jpg 1 186 65 591 577
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(384).jpg 1 78 69 912 611
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(385).jpg 1 177 8 367 312
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(386).jpg 1 284 195 439 305
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(387).jpg 2 61 19 871 665 886 348 108 134
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(388).jpg 1 317 233 290 262
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(389).jpg 1 242 63 713 585
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(39).jpg 1 74 95 897 559
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(390).jpg 1 321 109 485 372
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(391).jpg 1 285 203 736 480
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(392).jpg 4 521 97 218 320 724 4 297 419 262 100 290 310 1 76 318 334
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(393).jpg 2 80 72 840 509 905 156 117 246
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(394).jpg 1 608 49 405 253
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(395).jpg 1 512 86 359 252
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(396).jpg 1 8 46 998 642
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(397).jpg 1 71 78 872 581
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(398).jpg 1 46 159 512 234
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(399).jpg 1 194 74 757 542
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(4).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(40).jpg 1 267 144 519 336
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(400).jpg 2 175 51 637 637 735 281 287 255
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(401).jpg 1 96 84 723 540
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(402).jpg 1 92 50 902 585
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(403).jpg 1 52 106 847 581
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(404).jpg 3 106 148 825 402 920 210 100 238 2 197 290 299
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(405).jpg 1 130 96 794 471
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(406).jpg 1 313 369 391 216
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(407).jpg 1 62 75 908 393
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(408).jpg 1 75 43 783 638
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(409).jpg 1 132 57 723 628
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(41).jpg 1 98 191 806 304
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(410).jpg 1 77 22 746 526
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(411).jpg 1 151 36 789 572
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(412).jpg 2 202 52 659 634 762 275 261 265
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(413).jpg 1 382 246 310 269
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(414).jpg 1 139 51 536 488
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(415).jpg 1 426 57 379 448
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(416).jpg 1 78 5 824 544
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(417).jpg 2 457 128 391 302 321 210 98 115
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(418).jpg 3 217 109 312 341 560 194 174 232 759 215 156 187
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(419).jpg 1 524 10 450 332
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(42).jpg 1 3 70 1019 553
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(420).jpg 1 31 24 949 664
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(421).jpg 1 148 149 427 414
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(422).jpg 1 343 7 577 458
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(423).jpg 1 59 4 868 672
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(424).jpg 2 411 74 311 289 698 75 217 266
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(425).jpg 1 62 32 902 638
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(426).jpg 1 10 12 946 554
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(427).jpg 1 366 160 329 298
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(428).jpg 1 326 343 460 344
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(429).jpg 1 247 199 710 305
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(43).jpg 1 220 108 729 537
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(430).jpg 1 132 18 758 565
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(431).jpg 1 51 69 908 559
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(432).jpg 1 29 68 991 450
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(433).jpg 1 142 88 788 500
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(434).jpg 1 33 107 927 533
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(435).jpg 1 48 76 933 541
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(436).jpg 1 83 75 664 567
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(437).jpg 1 227 153 461 321
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(438).jpg 1 92 125 757 544
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(439).jpg 2 121 105 636 542 938 316 82 95
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(44).jpg 1 187 86 654 527
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(440).jpg 1 404 152 522 461
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(441).jpg 1 304 93 544 548
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(442).jpg 1 214 74 651 426
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(443).jpg 1 168 65 590 339
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(444).jpg 1 84 51 854 631
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(445).jpg 1 368 65 653 475
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(446).jpg 1 52 54 916 632
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(447).jpg 1 92 221 832 467
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(448).jpg 1 300 57 607 587
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(449).jpg 1 77 129 889 457
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(45).jpg 2 423 175 373 466 194 261 277 340
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(450).jpg 1 215 163 593 382
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(451).jpg 1 297 51 615 591
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(452).jpg 1 158 118 638 530
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(453).jpg 1 382 21 490 538
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(454).jpg 1 97 43 917 560
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(455).jpg 2 35 207 420 397 569 390 62 86
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(456).jpg 1 65 139 890 547
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(457).jpg 1 69 3 673 685
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(458).jpg 1 149 10 712 557
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(459).jpg 1 141 2 852 684
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(46).jpg 1 26 238 980 447
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(460).jpg 2 306 150 595 395 67 325 74 101
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(461).jpg 1 124 157 768 529
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(462).jpg 1 231 264 728 311
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(463).jpg 1 109 6 481 341
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(464).jpg 1 223 106 433 438
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(465).jpg 1 30 190 978 498
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(466).jpg 1 145 14 753 625
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(467).jpg 1 129 169 748 473
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(468).jpg 1 192 190 515 298
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(469).jpg 2 76 73 850 615 908 343 91 98
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(47).jpg 1 311 48 373 404
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(470).jpg 1 50 179 862 507
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(471).jpg 1 14 10 987 675
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(472).jpg 1 272 29 647 563
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(473).jpg 1 249 11 679 546
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(474).jpg 1 226 162 385 428
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(475).jpg 1 32 117 951 565
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(476).jpg 1 98 42 852 634
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(477).jpg 1 5 85 1014 599
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(478).jpg 1 15 26 936 652
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(479).jpg 1 234 101 516 432
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(48).jpg 1 89 144 875 387
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(480).jpg 1 2 319 610 348
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(481).jpg 3 267 196 370 401 89 262 191 281 677 44 343 600
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(482).jpg 1 144 306 315 223
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(483).jpg 1 3 24 476 650
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(484).jpg 3 113 129 389 303 497 243 56 101 549 273 30 52
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(485).jpg 1 157 15 691 492
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(486).jpg 1 76 130 779 351
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(487).jpg 3 724 567 168 113 350 563 95 98 226 596 56 47
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(488).jpg 1 49 285 551 126
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(489).jpg 1 449 253 460 259
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(49).jpg 1 142 63 755 623
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(490).jpg 1 466 18 556 588
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(491).jpg 1 2 265 772 402
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(492).jpg 1 3 122 832 547
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(493).jpg 3 340 328 301 311 640 290 374 350 98 285 220 334
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(494).jpg 3 647 325 135 125 4 328 343 131 127 308 290 92
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(495).jpg 1 460 278 338 186
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(496).jpg 1 556 327 215 143
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(497).jpg 5 509 329 149 277 276 329 196 283 484 233 64 96 847 203 60 69 534 213 45 59
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(498).jpg 7 2 2 577 649 231 84 441 496 460 197 365 339 691 279 232 222 822 322 137 168 870 331 120 148 924 345 99 126
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(499).jpg 1 499 133 493 397
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(5).jpg 1 168 112 503 415
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(50).jpg 1 83 62 855 546
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(500).jpg 1 524 48 392 243
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(501).jpg 1 325 126 397 275
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(502).jpg 1 95 188 806 296
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(503).jpg 2 555 284 66 88 249 153 249 283
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(504).jpg 1 244 126 570 415
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(505).jpg 1 143 99 726 514
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(506).jpg 1 330 185 691 352
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(507).jpg 1 8 304 1010 194
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(508).jpg 1 0 312 971 375
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(509).jpg 1 32 68 965 616
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(51).jpg 1 85 299 763 378
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(510).jpg 1 40 58 912 622
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(511).jpg 1 76 167 898 351
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(512).jpg 1 30 146 915 490
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(513).jpg 1 19 11 998 607
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(514).jpg 1 2 414 424 245
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(515).jpg 1 22 53 839 592
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(516).jpg 1 287 2 485 553
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(517).jpg 4 0 86 150 540 95 39 398 595 424 0 497 658 883 1 138 656
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(518).jpg 1 151 146 419 519
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(519).jpg 1 64 34 874 596
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(52).jpg 1 166 51 716 483
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(520).jpg 2 266 11 745 655 128 287 139 143
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(521).jpg 1 635 307 130 189
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(522).jpg 1 318 310 323 147
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(523).jpg 1 319 139 338 329
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(524).jpg 3 59 195 685 301 550 205 312 282 718 215 203 253
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(525).jpg 2 422 304 259 330 90 323 370 293
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(526).jpg 2 6 314 425 274 296 323 569 286
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(527).jpg 2 108 171 494 332 558 175 448 319
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(528).jpg 1 251 203 166 221
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(529).jpg 2 494 182 349 391 16 194 510 360
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(53).jpg 1 150 69 640 516
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(530).jpg 4 3 282 448 318 3 221 542 361 500 302 177 267 612 299 167 276
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(531).jpg 2 580 371 186 193 746 412 120 116
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(532).jpg 1 292 92 266 235
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(533).jpg 1 267 104 498 462
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(534).jpg 1 184 239 800 325
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(535).jpg 4 477 68 420 498 268 146 321 332 97 214 266 228 16 244 171 127
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(536).jpg 1 427 172 228 263
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(537).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(538).jpg 1 237 310 653 292
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(539).jpg 1 36 334 240 266
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(54).jpg 1 21 60 970 626
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(540).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(541).jpg 1 301 387 494 120
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(542).jpg 1 285 374 454 197
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(543).jpg 1 346 198 637 297
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(544).jpg 1 338 338 254 259
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(545).jpg 1 61 54 951 550
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(546).jpg 1 133 143 703 542
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(547).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(548).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(549).jpg 1 449 299 353 240
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(55).jpg 1 155 20 636 658
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(550).jpg 1 0 226 372 348
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(551).jpg 1 376 240 276 222
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(552).jpg 1 192 83 543 333
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(553).jpg 1 359 280 284 45
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(554).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(555).jpg 1 130 171 207 175
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(556).jpg 1 254 510 559 173
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(557).jpg 1 67 175 396 431
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(558).jpg 1 26 274 595 325
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(559).jpg 2 151 406 277 271 807 456 211 207
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(56).jpg 1 198 28 691 474
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(560).jpg 1 111 645 60 42
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(561).jpg 1 300 469 265 208
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(562).jpg 1 280 1 426 684
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(563).jpg 1 271 0 432 687
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(564).jpg 1 97 97 858 472
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(565).jpg 2 29 156 760 405 901 193 120 221
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(566).jpg 1 91 147 734 400
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(567).jpg 1 223 578 572 110
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(568).jpg 1 372 391 154 161
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(569).jpg 1 108 328 425 262
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(57).jpg 1 6 4 1013 581
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(570).jpg 1 145 490 288 117
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(571).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(572).jpg 1 368 568 262 118
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(573).jpg 1 344 575 294 112
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(574).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(575).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(576).jpg 1 460 235 323 159
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(577).jpg 1 92 217 572 374
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(578).jpg 1 217 321 591 280
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(579).jpg 1 365 393 355 144
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(58).jpg 1 24 7 943 675
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(580).jpg 1 60 140 455 491
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(581).jpg 1 64 149 474 483
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(582).jpg 1 55 149 445 491
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(583).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(584).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(585).jpg 1 86 452 498 120
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(586).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(587).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(588).jpg 1 141 517 717 171
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(589).jpg 1 413 260 410 295
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(59).jpg 1 267 198 376 310
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(590).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(591).jpg 1 238 115 782 325
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(592).jpg 1 89 589 422 99
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(593).jpg 1 103 592 405 93
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(594).jpg 1 103 593 405 90
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(595).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(596).jpg 1 237 250 610 418
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(597).jpg 2 535 313 136 176 705 2 316 560
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(598).jpg 2 108 313 266 314 428 177 56 76
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(599).jpg 5 483 323 160 295 276 328 190 293 852 200 55 74 482 230 70 100 538 214 38 62
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(6).jpg 1 323 280 414 207
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(60).jpg 1 381 125 384 299
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(600).jpg 4 581 384 117 124 817 387 72 90 326 314 36 55 185 408 95 152
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(601).jpg 1 31 161 778 490
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(602).jpg 1 393 400 375 211
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(603).jpg 1 380 402 396 229
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(604).jpg 1 33 193 446 276
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(605).jpg 1 573 341 384 318
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(606).jpg 1 147 3 678 302
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(607).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(608).jpg 1 288 19 473 621
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(609).jpg 3 513 508 75 104 383 514 86 111 238 501 142 125
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(61).jpg 1 72 258 905 390
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(610).jpg 3 270 209 368 381 684 65 338 587 93 269 181 283
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(611).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(612).jpg 1 424 402 103 134
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(613).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(614).jpg 1 337 347 583 292
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(615).jpg 2 573 273 416 320 54 178 491 391
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(616).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(617).jpg 1 142 150 702 347
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(618).jpg 1 61 507 266 139
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(619).jpg 1 389 392 571 267
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(62).jpg 1 347 242 227 372
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(620).jpg 1 110 223 905 463
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(621).jpg 2 754 430 118 114 598 375 30 31
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(622).jpg 2 370 331 313 265 731 453 76 70
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(623).jpg 1 149 297 755 314
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(624).jpg 1 248 316 465 186
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(625).jpg 1 36 132 959 522
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(626).jpg 2 405 359 166 151 721 229 301 318
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(627).jpg 1 415 288 584 341
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(628).jpg 1 652 323 347 133
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(629).jpg 1 603 415 363 124
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(63).jpg 1 111 85 809 585
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(630).jpg 2 394 217 292 287 597 183 330 299
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(631).jpg 3 175 211 625 349 2 344 219 149 877 352 137 100
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(632).jpg 1 489 468 234 136
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(633).jpg 1 533 185 336 291
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(634).jpg 1 546 171 318 304
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(635).jpg 1 400 148 318 356
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(636).jpg 1 478 349 83 116
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(637).jpg 1 6 2 615 529
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(638).jpg 2 677 367 72 53 351 316 243 143
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(639).jpg 2 6 206 776 382 943 379 78 101
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(64).jpg 1 299 77 618 420
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(640).jpg 1 141 304 318 238
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(641).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(642).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(643).jpg 1 8 212 979 473
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(644).jpg 2 518 257 55 46 820 423 200 265
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(645).jpg 1 151 107 586 485
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(646).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(647).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(648).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(649).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(65).jpg 1 107 30 822 647
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(650).jpg 1 393 662 180 26
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(651).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(652).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(653).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(654).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(655).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(656).jpg 1 585 312 427 180
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(657).jpg 1 354 185 454 420
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(658).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(659).jpg 1 124 208 802 317
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(66).jpg 1 124 90 705 420
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(660).jpg 1 123 191 791 334
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(661).jpg 1 163 11 719 470
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(662).jpg 1 501 288 174 131
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(663).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(664).jpg 1 406 100 615 512
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(665).jpg 1 590 238 329 266
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(666).jpg 1 408 510 117 102
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(667).jpg 1 683 286 225 128
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(668).jpg 3 490 488 532 198 322 471 452 213 210 450 363 225
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(669).jpg 1 549 279 317 86
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(67).jpg 1 113 19 851 450
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(670).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(671).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(672).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(673).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(674).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(675).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(676).jpg 1 409 293 341 152
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(677).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(678).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(679).jpg 1 372 278 284 92
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(68).jpg 2 186 17 676 537 3 228 131 183
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(680).jpg 1 306 242 525 223
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(681).jpg 1 458 228 365 161
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(682).jpg 3 449 127 510 475 297 217 178 278 166 321 40 59
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(683).jpg 1 227 219 434 215
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(684).jpg 2 354 230 181 172 534 305 64 64
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(685).jpg 1 259 375 507 306
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(686).jpg 1 262 403 511 275
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(687).jpg 1 74 421 696 144
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(688).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(689).jpg 1 159 169 600 362
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(69).jpg 1 300 50 412 521
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(690).jpg 1 635 335 173 188
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(691).jpg 1 640 336 161 198
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(692).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(693).jpg 1 194 356 355 208
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(694).jpg 1 208 350 352 208
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(695).jpg 1 638 273 248 340
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(696).jpg 1 641 268 250 354
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(697).jpg 1 78 146 799 427
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(698).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(699).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(7).jpg 1 146 5 679 683
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(70).jpg 1 37 104 860 566
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(700).jpg 1 69 153 948 249
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(701).jpg 1 164 516 400 170
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(702).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(703).jpg 1 362 233 327 207
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(704).jpg 1 348 226 335 214
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(705).jpg 1 1 8 516 636
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(706).jpg 1 745 411 199 194
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(707).jpg 1 388 262 160 216
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(708).jpg 1 381 258 182 224
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(709).jpg 2 517 384 263 260 75 247 421 223
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(71).jpg 1 15 10 999 677
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(710).jpg 1 209 132 413 427
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(711).jpg 1 2 362 668 325
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(712).jpg 1 2 77 929 436
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(713).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(714).jpg 1 338 371 405 272
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(715).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(716).jpg 1 0 222 307 463
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(717).jpg 1 72 61 888 582
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(718).jpg 1 511 548 227 139
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(719).jpg 1 510 542 232 145
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(72).jpg 2 697 315 271 320 31 274 305 331
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(720).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(721).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(722).jpg 1 157 247 204 219
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(723).jpg 1 469 263 151 179
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(724).jpg 1 491 410 377 125
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(725).jpg 1 83 47 853 627
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(726).jpg 3 104 213 817 366 663 263 360 246 4 411 60 38
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(727).jpg 2 103 215 881 329 771 236 251 265
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(728).jpg 1 58 319 371 328
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(729).jpg 1 231 29 507 514
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(73).jpg 1 13 264 984 421
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(730).jpg 1 348 37 489 371
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(731).jpg 1 486 271 309 191
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(732).jpg 1 565 331 212 142
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(733).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(734).jpg 1 512 267 325 229
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(735).jpg 1 126 261 166 183
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(736).jpg 1 202 345 473 234
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(737).jpg 1 479 219 230 244
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(738).jpg 1 6 330 959 354
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(739).jpg 1 39 69 951 616
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(74).jpg 1 184 51 683 630
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(740).jpg 1 382 71 463 551
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(741).jpg 1 118 24 757 648
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(742).jpg 1 405 147 345 229
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(743).jpg 1 1 179 732 460
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(744).jpg 1 32 56 937 631
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(745).jpg 1 98 159 883 355
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(746).jpg 1 3 304 582 317
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(747).jpg 2 329 337 132 162 242 289 55 58
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(748).jpg 1 296 219 445 306
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(749).jpg 1 65 105 798 566
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(75).jpg 1 185 23 794 542
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(750).jpg 1 597 414 426 246
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(751).jpg 1 2 405 415 261
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(752).jpg 1 30 126 884 517
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(753).jpg 1 305 1 453 556
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(754).jpg 1 102 120 728 336
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(755).jpg 1 179 46 626 480
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(756).jpg 1 218 25 491 528
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(757).jpg 3 99 87 856 355 953 186 68 120 2 121 287 254
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(758).jpg 1 97 75 765 599
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(759).jpg 1 150 180 592 225
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(76).jpg 1 135 13 462 452
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(760).jpg 1 331 63 569 410
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(761).jpg 1 438 81 252 369
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(762).jpg 1 130 151 431 506
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(763).jpg 1 626 78 349 324
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(764).jpg 1 397 143 316 383
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(765).jpg 1 110 58 802 437
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(766).jpg 1 150 114 808 270
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(767).jpg 1 11 81 965 346
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(768).jpg 1 34 168 970 290
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(769).jpg 1 86 121 905 323
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(77).jpg 1 266 229 312 116
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(770).jpg 1 57 75 878 397
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(771).jpg 1 91 146 675 186
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(772).jpg 1 355 194 462 239
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(773).jpg 1 61 57 866 559
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(774).jpg 1 78 107 611 466
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(775).jpg 1 112 118 507 482
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(776).jpg 1 23 253 250 189
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(777).jpg 1 104 287 628 351
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(778).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(779).jpg 1 499 253 512 261
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(78).jpg 1 607 34 391 260
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(780).jpg 1 83 229 881 350
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(781).jpg 1 351 197 237 285
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(782).jpg 1 287 185 294 283
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(783).jpg 2 432 301 263 314 93 315 358 316
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(784).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(785).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(786).jpg 1 37 233 443 340
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(787).jpg 1 78 224 458 342
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(788).jpg 1 94 218 532 417
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(789).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(79).jpg 1 385 222 300 291
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(790).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(791).jpg 0
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(792).jpg 1 375 208 518 448
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(793).jpg 2 424 232 338 362 932 280 89 85
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(794).jpg 1 263 76 532 448
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(795).jpg 1 48 138 590 422
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(796).jpg 1 49 154 589 412
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(797).jpg 1 272 10 687 392
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(798).jpg 1 397 94 237 223
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(799).jpg 1 252 36 585 384
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(8).jpg 1 657 221 48 48
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(80).jpg 1 195 2 734 459
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(800).jpg 1 414 159 142 94
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(801).jpg 1 354 56 236 188
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(81).jpg 1 82 12 929 554
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(82).jpg 1 509 123 512 250
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(83).jpg 1 221 164 579 380
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(84).jpg 1 1 90 1020 505
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(85).jpg 1 377 143 558 133
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(86).jpg 1 37 69 882 600
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(87).jpg 1 186 245 716 393
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(88).jpg 4 252 36 549 635 195 335 101 157 68 327 124 164 3 328 72 163
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(89).jpg 1 40 104 949 577
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(9).jpg 1 356 191 251 338
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(90).jpg 1 25 152 975 535
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(91).jpg 1 334 125 431 390
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(92).jpg 1 50 148 925 472
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(93).jpg 1 214 110 690 459
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(94).jpg 1 190 44 676 505
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(95).jpg 2 369 22 601 634 156 195 254 395
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(96).jpg 2 250 1 770 683 28 300 108 166
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(97).jpg 1 79 105 743 510
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(98).jpg 1 2 114 805 528
+C:/Users/franc/Arthur/Code/BMSrecognition/truck/truck(99).jpg 1 300 62 670 597
